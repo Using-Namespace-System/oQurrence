@@ -1,0 +1,12 @@
+name: base
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - cartopy
+  - matplotlib
+  - xarray
+  - dask
+  - netCDF4
+  - bottleneck
+prefix: /opt/conda
