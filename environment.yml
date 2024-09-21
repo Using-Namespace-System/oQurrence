@@ -9,4 +9,5 @@ dependencies:
   - dask
   - netCDF4
   - bottleneck
+  - scikit-learn
 prefix: /opt/conda
