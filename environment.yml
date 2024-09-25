@@ -5,6 +5,8 @@ channels:
 dependencies:
   - ipykernel
   - cartopy
+  - siphon
+  - python-awips
   - matplotlib
   - xarray
   - dask
