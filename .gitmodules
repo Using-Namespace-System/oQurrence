@@ -1,0 +1,3 @@
+[submodule "docs/quantum-optimization-for-climate-data-assimilation"]
+	path = docs/quantum-optimization-for-climate-data-assimilation
+	url = https://github.com/Using-Namespace-System/quantum-optimization-for-climate-data-assimilation.git
